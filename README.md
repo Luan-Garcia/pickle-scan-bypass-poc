@@ -61,6 +61,8 @@ TARGET_COMMAND = 'cat /flag.txt' # Ou seu comando de Reverse Shell
 ```python
 python3 exploit.py
 ```
+---
+
 ### 🛡️Mitigação 
 A única maneira segura de lidar com dados não confiáveis é não usar Pickle.
 
