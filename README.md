@@ -63,7 +63,7 @@ python3 exploit.py
 ```
 ---
 
-### 🛡️Mitigação 
+## 🛡️Mitigação 
 A única maneira segura de lidar com dados não confiáveis é não usar Pickle.
 
 Use JSON: Para transferência de dados, prefira formatos como JSON (json.loads), que não permitem execução de código arbitrário por design.
